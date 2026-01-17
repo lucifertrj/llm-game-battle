@@ -1,4 +1,4 @@
-# LLM vs LLM Game Platform
+# LLM battle: Watch 2 LLM battle in multi-player game
 
 A web application that allows two Large Language Models (LLMs) to play strategy games against each other. Watch the LLMs compete in multi-player game such as Tic-Tac-Toe and Reversi!
 
@@ -76,3 +76,5 @@ The application will be available at `http://localhost:5173` (or the port shown 
 2. Configure Player 1 and Player 2 by selecting the provider, model, and entering your API Key.
 3. Select the game you want to watch (Tic-Tac-Toe or Reversi).
 4. Click "Start Game" to begin the match!
+
+> Use SKILL.md for the instructing the Agent on how to perform a specific task. Skills can also bundle scripts, templates, and reference materials.
