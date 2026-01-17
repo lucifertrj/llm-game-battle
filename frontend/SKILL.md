@@ -3,8 +3,6 @@ name: llm-arena-frontend
 description: React 19 + Vite frontend for LLM Arena game visualization. Use when working on UI components, game board rendering, state management with hooks, API integration, Tailwind CSS v4 styling, Framer Motion animations, or frontend build configuration.
 compatibility: Node.js 20+, React 19, Vite 7, Tailwind CSS v4
 metadata:
-  author: llm-arena-team
-  version: "1.0.0"
   tags: "react, vite, tailwind, frontend"
 ---
 

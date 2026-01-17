@@ -3,8 +3,6 @@ name: llm-arena
 description: Full-stack LLM Arena application for AI vs AI game battles. Use when working on project-wide configurations, deployment, architecture decisions, or coordinating between frontend and backend. Covers Tic-Tac-Toe and Reversi games with OpenAI, Anthropic, and Google Gemini support.
 compatibility: Node.js 20+, Python 3.10+, network access required for LLM API calls
 metadata:
-  author: llm-arena-team
-  version: "1.0.0"
   tags: "ai, games, llm, full-stack"
 ---
 

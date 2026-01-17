@@ -3,8 +3,6 @@ name: llm-arena-backend
 description: FastAPI Python backend for LLM Arena game server. Use when working on API endpoints, LLM provider integration via LiteLLM, game move processing, prompt engineering for AI players, error handling, or backend testing.
 compatibility: Python 3.10+, FastAPI, LiteLLM, network access required for LLM API calls
 metadata:
-  author: llm-arena-team
-  version: "1.0.0"
   tags: "fastapi, python, llm, api"
 ---
 
